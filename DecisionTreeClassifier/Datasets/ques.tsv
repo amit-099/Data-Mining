@@ -1,0 +1,11 @@
+youth high no fair reject
+youth high no excellent reject
+middle_aged high no fair accept
+senior medium no fair accept
+senior low yes fair accept
+senior low yes excellent reject
+youth medium no fair reject
+senior medium yes fair accept
+youth medium yes excellent accept
+middle_aged medium no excellent accept
+middle_aged high yes fair accept
